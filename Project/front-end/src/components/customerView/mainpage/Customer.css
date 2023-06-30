@@ -1,0 +1,16 @@
+.cardbody {
+  margin-top: 75px;
+  padding: 20px;
+  margin: 30px;
+}
+
+.littleImage {
+  width: 20px;
+  height: 30px;
+  margin-right: 15px;
+}
+
+.checkoutBox {
+  margin-top: 100px;
+  margin-right: 100px;
+}
